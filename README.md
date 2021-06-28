@@ -1,6 +1,2 @@
-# machine_learning_random
+Practicing Machine Learning
 
-Here I am going to post random machine learning code 
-
-
-:)
